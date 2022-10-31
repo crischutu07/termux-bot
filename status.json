@@ -30,9 +30,5 @@
   {
     "name": "Emacs",
     "type": 0
-  },
-  { 
-    "name": "rm -rf $PREFIX",
-    "type": 0
   }
 ]
